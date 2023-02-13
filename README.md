@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanepickrell
-- 👀 I’m interested in python, javascript and react-native development.
+- 👀 I’m interested in python, javascript and react development.
 - 🌱 I’m currently learning OOP in python
-- 💞️ I’m looking to collaborate on with anyone interested in climate change and litter.
+- 💞️ Always looking to collaborate. I am interested in machine learning, computer vision, etc.
 - 📫 How to reach me LinkedIn at https://www.linkedin.com/in/kane-pickrel-9288a691/
 
 <!---
