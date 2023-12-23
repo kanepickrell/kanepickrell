@@ -1,5 +1,5 @@
 - 👋 Hi, i’m kane
-- curent interests inclue ml ops, red teaming, and c2 explotation.
+- curent interests inclue ml ops, red teaming, and c2 orchestration.
 - currently learning robot framework automation and machine learning.
 - always looking to collaborate. 
 - reach me LinkedIn at https://www.linkedin.com/in/kane-pickrel-9288a691/
