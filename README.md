@@ -1,4 +1,3 @@
-- 👋 Hi, i’m kane
 - current interests inclue ml ops, red teaming, and c2 orchestration.
 - currently learning about llms, interested in both development of and attack vectors concerning transformer models.
 <!---
